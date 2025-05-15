@@ -1,17 +1,22 @@
-## Hi there 👋
+# 👋 Hi there! I'm Lâm Tuấn Kiệt
 
-<!--
-**ltk218/ltk218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a new coder , currently learning Information Technology at Sai Gon University (SGU) in Ho Chi Minh city
+## 💻 Tech Stack
+### Languages I Code In
+- 💠 **C#**
+- 🌐 **HTML / CSS / JavaScript**
+- 🐘 **PHP**
+- 💻 **C / C++**
+- ☕ **Java**
+- 🐍 **Python**
+- 📝 **SQL**
+- 📦 ...and always exploring more!
 
-Here are some ideas to get you started:
+### Tools & Frameworks
+- 🎨 Bootstrap, TailwindCSS
+- ⚙️ .NET, ASP.NET Core
+- 🔧 Node.js, Express
+- 🧠 Git & GitHub
+- 🖥️ Visual Studio, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![snake gif](https://github.com/ltk218/ltk218/blob/output/github-snake-dark.svg)
