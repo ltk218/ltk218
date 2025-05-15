@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I'm a new coder, currently learning Information Te
 - ⚙️ .NET, ASP.NET Core
 - 🔧 Node.js, Express
 - 🧠 Git & GitHub
-- 🖥️ Visual Studio, VS Code
+- 🖥️ Visual Studio, VS Code, Eclipse,
+- 📦 ...and always exploring more!
 
 ![snake gif](https://github.com/ltk218/ltk218/blob/output/github-snake-dark.svg)
