@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Lâm Tuấn Kiệt
+# 👋 Hi there! I'm Kiệt
 
 Welcome to my GitHub profile! I'm a new coder , currently learning Information Technology at Sai Gon University (SGU) in Ho Chi Minh city
 ## 💻 Tech Stack
