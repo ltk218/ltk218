@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Kiệt
 
-Welcome to my GitHub profile! I'm a new coder , currently learning Information Technology at Sai Gon University (SGU) in Ho Chi Minh city
+Welcome to my GitHub profile! I'm a new coder, currently learning Information Technology at Sai Gon University (SGU) in Ho Chi Minh city
 ## 💻 Tech Stack
 ### Languages I Code In
 - 💠 **C#**
