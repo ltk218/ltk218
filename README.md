@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a new coder, currently learning Information Te
 - **Java**
 - **Python**
 - **SQL**
-And I'm always try to exploring more!
+- And I'm always try to exploring more!
 
 ### Tools & Frameworks
 - Bootstrap, TailwindCSS
